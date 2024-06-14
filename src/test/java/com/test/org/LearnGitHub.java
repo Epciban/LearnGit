@@ -27,4 +27,14 @@ public class LearnGitHub {
 	private void Meghalaya() {
 		System.out.println("Method3");
 	}
+	
+	private void kuwait() {
+		System.out.println("Method4");
+	}
+	private void dubai() {
+		System.out.println("Method4");
+	}
+	private void nepal() {
+		System.out.println("Method4");
+	}
 }
