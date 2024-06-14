@@ -37,4 +37,13 @@ public class LearnGitHub {
 	private void nepal() {
 		System.out.println("Method4");
 	}
+	private void care() {
+		System.out.println("Method4");
+	}
+	private void bike() {
+		System.out.println("Method4");
+	}
+	private void bus() {
+		System.out.println("Method4");
+	}
 }
